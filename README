@@ -1,0 +1,7 @@
+This project (avr_thermo) is a simple atmega8/16-based thermostat.
+
+I've wrote this project when thermostat in my refrigerator had unexpectedy broken.
+
+I use DS18B20 digital sensor to measure temperature and relay to control the compessor.
+
+This project is based on avr_rtos - mini rtos (with timers, queue and interrupt-driven usart with read/write-buffers).
